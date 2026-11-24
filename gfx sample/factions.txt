@@ -1,0 +1,74 @@
+factions.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FactionContinueBackground
+  rotate: true
+  xy: 457, 3
+  size: 20, 147
+  orig: 20, 147
+  offset: 0, 0
+  index: -1
+FactionL
+  rotate: false
+  xy: 114, 334
+  size: 214, 169
+  orig: 229, 173
+  offset: 0, 0
+  index: -1
+FactionTileLeft
+  rotate: false
+  xy: 234, 163
+  size: 215, 150
+  orig: 229, 173
+  offset: 13, 9
+  index: -1
+FactionTileLeftPressed
+  rotate: false
+  xy: 3, 180
+  size: 215, 150
+  orig: 229, 173
+  offset: 13, 9
+  index: -1
+FactionTileLeftSelect
+  rotate: false
+  xy: 234, 3
+  size: 219, 156
+  orig: 229, 173
+  offset: 10, 10
+  index: -1
+FactionTileMiddle
+  rotate: true
+  xy: 426, 317
+  size: 66, 84
+  orig: 175, 107
+  offset: 45, -13
+  index: -1
+FactionTileMiddlePressed
+  rotate: false
+  xy: 332, 392
+  size: 84, 66
+  orig: 175, 107
+  offset: 45, 5
+  index: -1
+FactionTileMiddleSelect
+  rotate: false
+  xy: 332, 317
+  size: 90, 71
+  orig: 175, 107
+  offset: 42, 6
+  index: -1
+FactionTutorial
+  rotate: true
+  xy: 3, 334
+  size: 107, 175
+  orig: 107, 175
+  offset: 0, 0
+  index: -1
+FactionX
+  rotate: false
+  xy: 3, 3
+  size: 227, 173
+  orig: 229, 173
+  offset: 2, 0
+  index: -1

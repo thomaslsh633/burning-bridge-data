@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b8471381fb3d03349b805b70761931d6:9ba25277d1f5b0a30abbbdda39a8b595:bbf2242dffc2a79b8b472e93ec3568a8$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="explosions.png" width="512" height="1024">
+    <sprite n="Empty.PNG" x="415" y="937" w="9" h="9" pX="0.5" pY="0.5" oX="0" oY="0" oW="20" oH="20"/>
+    <sprite n="Factory.PNG" x="2" y="99" w="175" h="140" pX="0.5" pY="0.5" oX="0" oY="0" oW="183" oH="149"/>
+    <sprite n="FortifyBelow.PNG" x="240" y="673" w="36" h="35" pX="0.5" pY="0.5" oX="21" oY="0" oW="56" oH="44" r="y"/>
+    <sprite n="FortifyFront.PNG" x="365" y="275" w="56" h="40" pX="0.5" pY="0.5" oX="0" oY="4" oW="56" oH="44"/>
+    <sprite n="GoldAnimation.PNG" x="487" y="399" w="23" h="29" pX="0.5" pY="0.5" r="y"/>
+    <sprite n="Hangar.PNG" x="280" y="503" w="80" h="61" pX="0.5" pY="0.5"/>
+    <sprite n="Harbor.PNG" x="211" y="544" w="65" h="56" pX="0.5" pY="0.5" oX="3" oY="0" oW="76" oH="56"/>
+    <sprite n="MGnestForest.png" x="425" y="275" w="74" h="51" pX="0.5" pY="0.5" oX="8" oY="12" oW="92" oH="75"/>
+    <sprite n="MGnestIcon.PNG" x="114" y="665" w="70" h="51" pX="0.5" pY="0.5" oX="8" oY="12" oW="92" oH="75"/>
+    <sprite n="MGnestSand.png" x="372" y="653" w="69" h="51" pX="0.5" pY="0.5" oX="13" oY="12" oW="92" oH="75"/>
+    <sprite n="MGnestSnow.PNG" x="167" y="812" w="50" h="70" pX="0.5" pY="0.5" oX="13" oY="13" oW="92" oH="75" r="y"/>
+    <sprite n="Marker01.PNG" x="2" y="573" w="108" h="143" pX="0.5" pY="0.5" r="y"/>
+    <sprite n="Marker02.PNG" x="412" y="2" w="98" h="131" pX="0.5" pY="0.5" oX="6" oY="5" oW="143" oH="108" r="y"/>
+    <sprite n="Marker03.PNG" x="295" y="97" w="110" h="79" pX="0.5" pY="0.5" oX="16" oY="14" oW="143" oH="108"/>
+    <sprite n="MarkerAnimation01.PNG" x="80" y="720" w="64" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation03.PNG" x="102" y="886" w="64" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation05.PNG" x="409" y="137" w="89" h="65" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108"/>
+    <sprite n="MarkerAnimation07.PNG" x="398" y="206" w="88" h="65" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108"/>
+    <sprite n="MarkerAnimation09.PNG" x="181" y="222" w="88" h="65" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108"/>
+    <sprite n="MarkerAnimation11.PNG" x="171" y="291" w="88" h="65" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108"/>
+    <sprite n="MarkerAnimation13.PNG" x="210" y="360" w="65" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation15.PNG" x="211" y="452" w="65" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation17.PNG" x="273" y="250" w="88" h="65" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108"/>
+    <sprite n="MarkerAnimation19.PNG" x="279" y="319" w="65" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation21.PNG" x="280" y="411" w="65" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation23.PNG" x="280" y="568" w="88" h="65" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108"/>
+    <sprite n="MarkerAnimation25.PNG" x="348" y="319" w="65" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation27.PNG" x="349" y="411" w="65" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation29.PNG" x="372" y="561" w="65" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation31.PNG" x="417" y="330" w="88" h="65" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108"/>
+    <sprite n="MarkerAnimation33.PNG" x="418" y="399" w="65" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation35.PNG" x="114" y="573" w="65" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation37.PNG" x="148" y="720" w="65" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation39.PNG" x="170" y="886" w="65" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation41.PNG" x="188" y="604" w="88" h="65" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108"/>
+    <sprite n="MarkerAnimation43.PNG" x="280" y="637" w="88" h="65" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108"/>
+    <sprite n="MarkerAnimation45.PNG" x="445" y="491" w="65" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation47.PNG" x="445" y="583" w="65" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation49.PNG" x="445" y="675" w="65" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation51.PNG" x="217" y="720" w="65" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation53.PNG" x="286" y="706" w="65" h="88" pX="0.5" pY="0.5" oX="27" oY="21" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation55.PNG" x="445" y="767" w="65" h="88" pX="0.5" pY="0.5" oX="27" oY="21" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation57.PNG" x="239" y="881" w="64" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation59.PNG" x="307" y="881" w="64" h="88" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation61.PNG" x="221" y="812" w="88" h="65" pX="0.5" pY="0.5" oX="27" oY="21" oW="143" oH="108"/>
+    <sprite n="MarkerAnimation63.PNG" x="375" y="846" w="65" h="87" pX="0.5" pY="0.5" oX="27" oY="21" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation65.PNG" x="355" y="708" w="86" h="65" pX="0.5" pY="0.5" oX="28" oY="21" oW="143" oH="108"/>
+    <sprite n="MarkerAnimation67.PNG" x="355" y="777" w="86" h="65" pX="0.5" pY="0.5" oX="28" oY="21" oW="143" oH="108"/>
+    <sprite n="MarkerAnimation69.PNG" x="444" y="859" w="64" h="87" pX="0.5" pY="0.5" oX="28" oY="22" oW="143" oH="108" r="y"/>
+    <sprite n="MarkerAnimation71.PNG" x="415" y="950" w="88" h="64" pX="0.5" pY="0.5" oX="27" oY="22" oW="143" oH="108"/>
+    <sprite n="MineLand.PNG" x="188" y="673" w="48" h="43" pX="0.5" pY="0.5" oX="15" oY="7" oW="76" oH="55"/>
+    <sprite n="N_Flag01.PNG" x="171" y="360" w="19" h="26" pX="0.5" pY="0.5"/>
+    <sprite n="N_Flag02.PNG" x="487" y="432" w="19" h="26" pX="0.5" pY="0.5"/>
+    <sprite n="N_Flag03.PNG" x="176" y="978" w="26" h="19" pX="0.5" pY="0.5" r="y"/>
+    <sprite n="N_Flag04.PNG" x="206" y="978" w="26" h="19" pX="0.5" pY="0.5" r="y"/>
+    <sprite n="N_Flag05.PNG" x="183" y="571" w="19" h="26" pX="0.5" pY="0.5"/>
+    <sprite n="N_Flag06.PNG" x="313" y="858" w="26" h="18" pX="0.5" pY="0.5" oX="0" oY="0" oW="19" oH="26" r="y"/>
+    <sprite n="N_Flag07.PNG" x="313" y="798" w="19" h="26" pX="0.5" pY="0.5"/>
+    <sprite n="N_Flag08.PNG" x="313" y="828" w="19" h="26" pX="0.5" pY="0.5"/>
+    <sprite n="ParashuteTrooper1.PNG" x="142" y="978" w="30" h="24" pX="0.5" pY="0.5" oX="14" oY="45" oW="54" oH="86"/>
+    <sprite n="ParashuteTrooper2.PNG" x="490" y="244" w="20" h="26" pX="0.5" pY="0.5" oX="16" oY="55" oW="54" oH="86"/>
+    <sprite n="RepairAnimation01.PNG" x="375" y="965" w="36" h="24" pX="0.5" pY="0.5" oX="16" oY="0" oW="40" oH="45" r="y"/>
+    <sprite n="RepairAnimation02.PNG" x="490" y="206" w="20" h="34" pX="0.5" pY="0.5" oX="0" oY="25" oW="40" oH="45" r="y"/>
+    <sprite n="RepairAnimation03.PNG" x="375" y="937" w="36" h="24" pX="0.5" pY="0.5" oX="0" oY="20" oW="40" oH="45"/>
+    <sprite n="RepairAnimation04.PNG" x="102" y="978" w="36" h="34" pX="0.5" pY="0.5" oX="3" oY="4" oW="40" oH="45"/>
+    <sprite n="Supplies.PNG" x="364" y="503" w="68" h="54" pX="0.5" pY="0.5" oX="19" oY="0" oW="97" oH="87" r="y"/>
+    <sprite n="SupplyingAnimation04.PNG" x="365" y="250" w="19" h="21" pX="0.5" pY="0.5"/>
+    <sprite n="Windmill.PNG" x="130" y="390" w="76" h="93" pX="0.5" pY="0.5" oX="1" oY="0" oW="77" oH="135"/>
+    <sprite n="bridgeL1.PNG" x="2" y="390" w="124" h="179" pX="0.5" pY="0.5"/>
+    <sprite n="bridgeL2.PNG" x="2" y="2" w="234" h="93" pX="0.5" pY="0.5"/>
+    <sprite n="bridgeL3.PNG" x="2" y="243" w="165" h="143" pX="0.5" pY="0.5"/>
+    <sprite n="bridgeM1.PNG" x="2" y="889" w="96" h="128" pX="0.5" pY="0.5"/>
+    <sprite n="bridgeM2.PNG" x="240" y="2" w="168" h="91" pX="0.5" pY="0.5"/>
+    <sprite n="bridgeM3.PNG" x="181" y="99" w="110" h="119" pX="0.5" pY="0.5" r="y"/>
+    <sprite n="bridgeRail.PNG" x="2" y="720" w="74" h="165" pX="0.5" pY="0.5" r="y"/>
+    <sprite n="bridgeS1.PNG" x="80" y="812" w="83" h="70" pX="0.5" pY="0.5" r="y"/>
+    <sprite n="bridgeS2.PNG" x="295" y="180" w="99" h="66" pX="0.5" pY="0.5"/>
+    <sprite n="bridgeS3.PNG" x="130" y="487" w="77" h="80" pX="0.5" pY="0.5" r="y"/>
+</TextureAtlas>

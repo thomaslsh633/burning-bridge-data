@@ -1,0 +1,550 @@
+explosions.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Empty
+  rotate: false
+  xy: 505, 247
+  size: 3, 3
+  orig: 20, 20
+  offset: 0, 17
+  index: -1
+Factory
+  rotate: false
+  xy: 2, 97
+  size: 172, 137
+  orig: 183, 149
+  offset: 0, 12
+  index: -1
+FortifyBelow
+  rotate: true
+  xy: 366, 273
+  size: 33, 32
+  orig: 56, 44
+  offset: 24, 12
+  index: -1
+FortifyFront
+  rotate: true
+  xy: 355, 418
+  size: 37, 56
+  orig: 56, 44
+  offset: 0, -19
+  index: -1
+GoldAnimation
+  rotate: true
+  xy: 486, 482
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Hangar
+  rotate: true
+  xy: 315, 624
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+Harbor
+  rotate: false
+  xy: 376, 761
+  size: 59, 52
+  orig: 76, 56
+  offset: 6, 2
+  index: -1
+MGnestForest
+  rotate: false
+  xy: 315, 577
+  size: 68, 45
+  orig: 92, 75
+  offset: 11, 15
+  index: -1
+MGnestIcon
+  rotate: false
+  xy: 169, 316
+  size: 64, 45
+  orig: 92, 75
+  offset: 11, 15
+  index: -1
+MGnestSand
+  rotate: false
+  xy: 167, 409
+  size: 63, 45
+  orig: 92, 75
+  offset: 16, 15
+  index: -1
+MGnestSnow
+  rotate: false
+  xy: 168, 363
+  size: 64, 44
+  orig: 92, 75
+  offset: 16, 15
+  index: -1
+Marker01
+  rotate: false
+  xy: 2, 312
+  size: 143, 108
+  orig: 143, 108
+  offset: 0, 0
+  index: -1
+Marker02
+  rotate: true
+  xy: 401, 315
+  size: 92, 125
+  orig: 143, 108
+  offset: 9, -25
+  index: -1
+Marker03
+  rotate: false
+  xy: 404, 172
+  size: 104, 73
+  orig: 143, 108
+  offset: 19, 18
+  index: -1
+MarkerAnimation01
+  rotate: true
+  xy: 87, 422
+  size: 58, 82
+  orig: 143, 108
+  offset: 30, 1
+  index: -1
+MarkerAnimation03
+  rotate: false
+  xy: 147, 768
+  size: 82, 58
+  orig: 143, 108
+  offset: 30, 25
+  index: -1
+MarkerAnimation05
+  rotate: true
+  xy: 176, 97
+  size: 59, 83
+  orig: 143, 108
+  offset: 30, 0
+  index: -1
+MarkerAnimation07
+  rotate: true
+  xy: 176, 182
+  size: 59, 82
+  orig: 143, 108
+  offset: 30, 1
+  index: -1
+MarkerAnimation09
+  rotate: false
+  xy: 2, 494
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 24
+  index: -1
+MarkerAnimation11
+  rotate: false
+  xy: 147, 463
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 24
+  index: -1
+MarkerAnimation13
+  rotate: true
+  xy: 86, 506
+  size: 59, 82
+  orig: 143, 108
+  offset: 30, 1
+  index: -1
+MarkerAnimation15
+  rotate: false
+  xy: 2, 555
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 24
+  index: -1
+MarkerAnimation17
+  rotate: false
+  xy: 231, 483
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 24
+  index: -1
+MarkerAnimation19
+  rotate: false
+  xy: 147, 524
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 24
+  index: -1
+MarkerAnimation21
+  rotate: false
+  xy: 231, 544
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 24
+  index: -1
+MarkerAnimation23
+  rotate: false
+  xy: 147, 585
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 24
+  index: -1
+MarkerAnimation25
+  rotate: true
+  xy: 86, 590
+  size: 59, 82
+  orig: 143, 108
+  offset: 30, 1
+  index: -1
+MarkerAnimation27
+  rotate: false
+  xy: 2, 616
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 24
+  index: -1
+MarkerAnimation29
+  rotate: false
+  xy: 394, 517
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 24
+  index: -1
+MarkerAnimation31
+  rotate: false
+  xy: 231, 605
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 24
+  index: -1
+MarkerAnimation33
+  rotate: false
+  xy: 147, 646
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 24
+  index: -1
+MarkerAnimation35
+  rotate: true
+  xy: 86, 674
+  size: 59, 82
+  orig: 143, 108
+  offset: 30, 1
+  index: -1
+MarkerAnimation37
+  rotate: false
+  xy: 2, 677
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 24
+  index: -1
+MarkerAnimation39
+  rotate: false
+  xy: 2, 738
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 24
+  index: -1
+MarkerAnimation41
+  rotate: false
+  xy: 385, 578
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 24
+  index: -1
+MarkerAnimation43
+  rotate: false
+  xy: 231, 666
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 24
+  index: -1
+MarkerAnimation45
+  rotate: false
+  xy: 147, 707
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 24
+  index: -1
+MarkerAnimation47
+  rotate: true
+  xy: 86, 758
+  size: 59, 82
+  orig: 143, 108
+  offset: 30, 1
+  index: -1
+MarkerAnimation49
+  rotate: false
+  xy: 2, 799
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 24
+  index: -1
+MarkerAnimation51
+  rotate: false
+  xy: 378, 639
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 24
+  index: -1
+MarkerAnimation53
+  rotate: false
+  xy: 378, 700
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 25
+  index: -1
+MarkerAnimation55
+  rotate: true
+  xy: 315, 706
+  size: 59, 82
+  orig: 143, 108
+  offset: 30, 2
+  index: -1
+MarkerAnimation57
+  rotate: false
+  xy: 231, 788
+  size: 82, 58
+  orig: 143, 108
+  offset: 30, 25
+  index: -1
+MarkerAnimation59
+  rotate: false
+  xy: 147, 828
+  size: 82, 58
+  orig: 143, 108
+  offset: 30, 25
+  index: -1
+MarkerAnimation61
+  rotate: false
+  xy: 231, 727
+  size: 82, 59
+  orig: 143, 108
+  offset: 30, 25
+  index: -1
+MarkerAnimation63
+  rotate: true
+  xy: 86, 842
+  size: 59, 81
+  orig: 143, 108
+  offset: 30, 3
+  index: -1
+MarkerAnimation65
+  rotate: true
+  xy: 85, 925
+  size: 59, 80
+  orig: 143, 108
+  offset: 31, 4
+  index: -1
+MarkerAnimation67
+  rotate: true
+  xy: 146, 925
+  size: 59, 80
+  orig: 143, 108
+  offset: 31, 4
+  index: -1
+MarkerAnimation69
+  rotate: false
+  xy: 2, 920
+  size: 81, 58
+  orig: 143, 108
+  offset: 31, 25
+  index: -1
+MarkerAnimation71
+  rotate: false
+  xy: 2, 860
+  size: 82, 58
+  orig: 143, 108
+  offset: 30, 25
+  index: -1
+MineLand
+  rotate: false
+  xy: 355, 379
+  size: 42, 37
+  orig: 76, 55
+  offset: 18, 8
+  index: -1
+N_Flag01
+  rotate: false
+  xy: 486, 513
+  size: 18, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+N_Flag02
+  rotate: false
+  xy: 147, 328
+  size: 19, 25
+  orig: 19, 26
+  offset: 0, 1
+  index: -1
+N_Flag03
+  rotate: false
+  xy: 147, 355
+  size: 19, 23
+  orig: 19, 26
+  offset: 0, 3
+  index: -1
+N_Flag04
+  rotate: true
+  xy: 486, 462
+  size: 24, 18
+  orig: 19, 26
+  offset: 0, 8
+  index: -1
+N_Flag05
+  rotate: true
+  xy: 478, 541
+  size: 25, 16
+  orig: 19, 26
+  offset: 0, 10
+  index: -1
+N_Flag06
+  rotate: false
+  xy: 495, 315
+  size: 15, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+N_Flag07
+  rotate: true
+  xy: 355, 476
+  size: 26, 17
+  orig: 19, 26
+  offset: 0, 9
+  index: -1
+N_Flag08
+  rotate: false
+  xy: 147, 436
+  size: 17, 25
+  orig: 19, 26
+  offset: 0, 1
+  index: -1
+ParashuteTrooper1
+  rotate: false
+  xy: 486, 442
+  size: 24, 18
+  orig: 54, 86
+  offset: 17, 20
+  index: -1
+ParashuteTrooper2
+  rotate: true
+  xy: 147, 312
+  size: 20, 14
+  orig: 54, 86
+  offset: 19, 14
+  index: -1
+RepairAnimation01
+  rotate: true
+  xy: 366, 307
+  size: 33, 21
+  orig: 40, 45
+  offset: 19, 24
+  index: -1
+RepairAnimation02
+  rotate: false
+  xy: 366, 330
+  size: 31, 17
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+RepairAnimation03
+  rotate: true
+  xy: 147, 403
+  size: 18, 31
+  orig: 40, 45
+  offset: 2, -9
+  index: -1
+RepairAnimation04
+  rotate: false
+  xy: 366, 349
+  size: 30, 28
+  orig: 40, 45
+  offset: 6, 10
+  index: -1
+Supplies
+  rotate: true
+  xy: 169, 266
+  size: 65, 48
+  orig: 97, 87
+  offset: 22, 39
+  index: -1
+SupplyingAnimation04
+  rotate: false
+  xy: 147, 380
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+Windmill
+  rotate: true
+  xy: 394, 442
+  size: 90, 73
+  orig: 77, 135
+  offset: 4, 62
+  index: -1
+bridgeL1
+  rotate: true
+  xy: 238, 2
+  size: 179, 124
+  orig: 179, 124
+  offset: 0, 0
+  index: -1
+bridgeL2
+  rotate: false
+  xy: 2, 2
+  size: 234, 93
+  orig: 234, 93
+  offset: 0, 0
+  index: -1
+bridgeL3
+  rotate: false
+  xy: 237, 128
+  size: 165, 143
+  orig: 165, 143
+  offset: 0, 0
+  index: -1
+bridgeM1
+  rotate: true
+  xy: 236, 273
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+bridgeM2
+  rotate: true
+  xy: 419, 2
+  size: 91, 168
+  orig: 91, 168
+  offset: 0, 0
+  index: -1
+bridgeM3
+  rotate: false
+  xy: 234, 371
+  size: 119, 110
+  orig: 119, 110
+  offset: 0, 0
+  index: -1
+bridgeRail
+  rotate: false
+  xy: 2, 236
+  size: 165, 74
+  orig: 165, 74
+  offset: 0, 0
+  index: -1
+bridgeS1
+  rotate: true
+  xy: 2, 422
+  size: 83, 70
+  orig: 83, 70
+  offset: 0, 0
+  index: -1
+bridgeS2
+  rotate: false
+  xy: 404, 247
+  size: 99, 66
+  orig: 99, 66
+  offset: 0, 0
+  index: -1
+bridgeS3
+  rotate: true
+  xy: 315, 495
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
